@@ -69,7 +69,7 @@ However, if it is allowed, you can use it as normal.
 If a permission is not defined, then the function cannot be used. To make it usable, set the permission to true.
 
 ```json
-  modules: ['@colors/colors']
+  "modules": ["@colors/colors"]
 ```
 The "modules" array is so you can include certain modules in the sandbox. It is recommended to use this only for custom modules, as you can include built-ins using the "permissions" entry.
 
