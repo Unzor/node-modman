@@ -91,7 +91,7 @@ modman({...})
 ```
 __Returns:__ function
 
-__Arguments:__ (1): array
+__Arguments:__ (1): object
 
 - permissions: __required__
 - modules: *optional*
